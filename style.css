@@ -8,13 +8,15 @@
     width: 100%;
   display: flex;
     justify-content: center;
-    border-radius: 12px; 
+     align-items: center;
+     
 }
 .box{
     height: 400px;
     width: 400px;
     background-color: blue;
-    align-items: center;
+   
+    border-radius: 12px;
    
     
 }
