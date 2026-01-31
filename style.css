@@ -17,9 +17,6 @@
     background-color: blue;
     border-radius: 12px;  
 }
-.box::after{
-    content: "";
-    height: 400px;
-    width: 400px;
-    background-color: darkviolet;
+.container .box::after{
+    
 }
