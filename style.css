@@ -17,9 +17,10 @@
     background-color: blue;
     border-radius: 12px;  
 }
-.container .box::after{
+.container.box::after{
     content: "";
     height: 400px;
     width: 400px;
     background-color: crimson;
+    z-index: 10;
 }
