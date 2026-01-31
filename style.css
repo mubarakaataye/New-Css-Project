@@ -20,4 +20,5 @@
 .container .box::after{
     content: "";
     height: 400px;
+    width: 400px;
 }
