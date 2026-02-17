@@ -9,4 +9,5 @@ nav{
     padding: 12px 7px;
     display: flex;
     width: 100%;
+    justify-content: space-between;
 }
