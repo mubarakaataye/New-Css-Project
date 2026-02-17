@@ -21,3 +21,6 @@ nav div.pages ul{
 nav div.pages ul li{
     list-style-type: none;
 }
+nav div.pages ul li a{
+    text-decoration: none;
+}
