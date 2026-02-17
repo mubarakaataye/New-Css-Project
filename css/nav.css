@@ -5,6 +5,9 @@
     --text-secondary-color: #999999;
     --btn-color: #91b842;
 }
+*{
+    margin: 0;
+}
 nav{
     padding: 8px 7px;
     display: flex;
