@@ -15,4 +15,5 @@ nav{
 }
 nav div.pages ul{
     display: flex;
+    gap: 12px;
 }
