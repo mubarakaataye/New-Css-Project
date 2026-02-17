@@ -16,4 +16,8 @@ nav{
 nav div.pages ul{
     display: flex;
     gap: 12px;
+
+}
+nav div.pages ul li{
+    list-style-type: none;
 }
