@@ -28,4 +28,5 @@ nav div.pages ul li a{
 }
 nav div.services{
     display: flex;
+    justify-content: center;
 }
