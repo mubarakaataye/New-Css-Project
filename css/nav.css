@@ -12,6 +12,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     background-color: black;
+    gap: 12px;
 }
 nav div.pages ul{
     display: flex;
