@@ -6,7 +6,7 @@
     --btn-color: #91b842;
 }
 nav{
-    padding: 12px 7px;
+    padding: 8px 7px;
     display: flex;
     width: 100%;
     justify-content: space-between;
@@ -32,4 +32,7 @@ nav div.services{
     justify-content: center;
     align-items: center;
     gap: 12px;
+}
+nav div img{
+    height: 50px;
 }
