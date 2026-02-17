@@ -23,4 +23,5 @@ nav div.pages ul li{
 }
 nav div.pages ul li a{
     text-decoration: none;
+    color: var(--bg-color);
 }
