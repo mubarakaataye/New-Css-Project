@@ -11,7 +11,7 @@
     box-sizing: border-box;
 }
 nav{
-    padding: 8px 7px;
+    padding: 8px 25px;
     display: flex;
     width: 100%;
     justify-content: space-between;
@@ -42,7 +42,7 @@ nav div.services{
 nav div img{
     height: 50px;
 }
-nav div.services button{
+nav button{
     padding: 8px 12px;
     border-radius: 12px;
     background-color: var(--btn-color);
