@@ -42,3 +42,6 @@ nav div.services{
 nav div img{
     height: 50px;
 }
+nav div.services button{
+    padding: 8px 12px;
+}
