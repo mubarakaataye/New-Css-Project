@@ -43,7 +43,8 @@ nav div img{
     height: 80px;
 }
 nav button{
-    padding: 8px 12px;
+    padding: 10px 12px;
+    border: 1px solid var(--bg-color);
     border-radius: 12px;
     white-space: nowrap;
     background-color: var(--btn-color);
