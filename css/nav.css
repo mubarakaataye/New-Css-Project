@@ -62,4 +62,5 @@ nav div.pages ul li.menu div.sub-menu{
     left: 0;
     width: 100%;
     margin: 7px auto;
+    border: 1px solid black;
 }
