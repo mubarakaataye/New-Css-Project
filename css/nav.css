@@ -58,9 +58,10 @@ nav div.pages ul li.menu div.sub-menu{
     background-color: var(--bg-color);
     height: 400px;
     position: absolute;
-    top: 80px;
+    top: 28px;
     left: 0;
-    width: 100%;
+    width: 900px;
+    display: none;
     margin: 7px auto;
     border: 1px solid black;
 }
