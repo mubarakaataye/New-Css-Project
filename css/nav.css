@@ -50,3 +50,6 @@ nav button{
     white-space: nowrap;
     background-color: var(--btn-color);
 }
+nav div.pages li.menu div.sub-menu{
+    background-color: var(--bg-color);
+}
