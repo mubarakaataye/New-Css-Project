@@ -65,3 +65,6 @@ nav div.pages ul li.menu div.sub-menu{
     margin: 7px auto;
     border: 1px solid black;
 }
+nav div.pages ul li.menu:hover div.sub-menu{
+    display: block;
+}
