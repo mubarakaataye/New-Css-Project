@@ -58,4 +58,5 @@ nav div.pages ul li.menu div.sub-menu{
     background-color: var(--bg-color);
     height: 400px;
     position: absolute;
+    top: 80px;
 }
