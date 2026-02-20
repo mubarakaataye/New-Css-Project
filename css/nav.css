@@ -32,6 +32,9 @@ nav div.pages ul li a{
     color: var(--bg-color);
     text-transform: uppercase;
 }
+nav div.pages ul li a:hover{
+    
+}
 nav div.services{
     display: flex;
     justify-content: center;
