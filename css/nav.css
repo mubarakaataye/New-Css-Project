@@ -76,5 +76,6 @@ nav div.pages ul li.menu div.sub-menu div.box{
     align-items: center;
 }
 nav div.pages ul li.menu div.sub-menu div.box img{
-    height: 100pc;
+    height: 100px;
+    width: 100px;
 }
