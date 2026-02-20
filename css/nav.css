@@ -69,4 +69,5 @@ nav div.pages ul li.menu:hover div.sub-menu{
     display: block;
     justify-content: space-between;
     gap: 9px;
+    flex-wrap: wrap;
 }
