@@ -67,4 +67,5 @@ nav div.pages ul li.menu div.sub-menu{
 }
 nav div.pages ul li.menu:hover div.sub-menu{
     display: block;
+    justify-content: space-between;
 }
