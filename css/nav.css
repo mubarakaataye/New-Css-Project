@@ -32,6 +32,9 @@ nav div.pages ul li a{
     color: var(--bg-color);
     text-transform: uppercase;
 }
+.fas fa-phone{
+    transform: rotatey(160deg);
+}
 nav div.pages ul li a:hover{
     color: var(--brand-color);
 }
