@@ -33,7 +33,7 @@ nav div.pages ul li a{
     text-transform: uppercase;
 }
 nav div.pages ul li a:hover{
-    
+    color: var(--brand-color);
 }
 nav div.services{
     display: flex;
