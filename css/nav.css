@@ -37,6 +37,7 @@ nav div.pages ul li a{
 }
 nav div.services div span a{
     color: var(--bg-color);
+    text-decoration: none;
 }
 nav div.pages ul li a:hover{
     color: var(--brand-color);
