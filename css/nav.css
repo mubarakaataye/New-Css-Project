@@ -35,6 +35,9 @@ nav div.pages ul li a{
 .fas fa-phone{
     transform: rotatey(160deg);
 }
+nav div.services div span a{
+    color: var(--bg-color);
+}
 nav div.pages ul li a:hover{
     color: var(--brand-color);
 }
