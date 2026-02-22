@@ -29,4 +29,5 @@ div.hero div.container div.hero-text{
 div.hero div.container div.hero-text h1{
     font-size: 150px;
     font-weight: 900;
+    text-transform: uppercase;
 }
