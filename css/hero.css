@@ -33,4 +33,5 @@ div.hero div.container div.hero-text h1, h2{
 }
 div.hero div.container div.hero-text h2 span{
     color: var(--brand-color);
+    line-height: normal;
 }
