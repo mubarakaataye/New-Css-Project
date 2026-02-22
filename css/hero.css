@@ -30,6 +30,7 @@ div.hero div.container div.hero-text h1, h2{
     font-size: 150px;
     font-weight: 900;
     text-transform: uppercase;
+    line-height: normal;
 }
 div.hero div.container div.hero-text h2 span{
     color: var(--brand-color);
