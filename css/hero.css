@@ -26,3 +26,6 @@ div.hero div.container div.hero-text{
     align-items: center;
     flex-direction: column;
 }
+div.hero div.container div.hero-text h1{
+    font-size: 150px;
+}
