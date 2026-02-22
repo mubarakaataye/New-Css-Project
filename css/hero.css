@@ -23,4 +23,5 @@ div.hero div.container div.text{
     width: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
