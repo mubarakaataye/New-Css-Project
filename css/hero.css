@@ -18,3 +18,7 @@ div.hero div.container{
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 }
+div.hero div.container div.text{
+    color: white;
+    width: 100%;
+}
