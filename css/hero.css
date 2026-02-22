@@ -36,3 +36,6 @@ div.hero div.container div.hero-text h2 span{
     color: var(--brand-color);
     line-height: normal;
 }
+div.hero div.container div.hero-text div p{
+    font-size: 32px;
+}
