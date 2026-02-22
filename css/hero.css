@@ -21,4 +21,5 @@ div.hero div.container{
 div.hero div.container div.text{
     color: white;
     width: 100%;
+    display: flex;
 }
