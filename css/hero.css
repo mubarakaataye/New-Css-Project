@@ -26,8 +26,11 @@ div.hero div.container div.hero-text{
     align-items: center;
     flex-direction: column;
 }
-div.hero div.container div.hero-text h1{
+div.hero div.container div.hero-text h1, h2{
     font-size: 150px;
     font-weight: 900;
     text-transform: uppercase;
+}
+div.hero div.container div.hero-text h2 span{
+    color: var(--brand-color);
 }
