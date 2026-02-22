@@ -39,4 +39,5 @@ div.hero div.container div.hero-text h2 span{
 div.hero div.container div.hero-text div p{
     font-size: 23px;
     text-transform: uppercase;
+    white-space: nowrap;
 }
