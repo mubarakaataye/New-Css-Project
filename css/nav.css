@@ -109,5 +109,5 @@ nav div.pages ul li.blog ul.sub-blog{
     display: none;
 }
 nav div.pages ul li.blog:hover ul.sub-blog{
-    
+    display: none;
 }
