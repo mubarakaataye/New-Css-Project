@@ -108,3 +108,6 @@ nav div.pages ul li.blog ul.sub-blog{
     background-color: white;
     display: none;
 }
+nav div.pages ul li.blog:hover ul.sub-blog{
+    
+}
