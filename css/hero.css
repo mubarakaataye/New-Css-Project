@@ -22,8 +22,8 @@ div.hero div.container div.hero-text{
     color: white;
     width: 100%;
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
     flex-direction: column;
 }
 div.hero div.container div.hero-text h1, h2{
