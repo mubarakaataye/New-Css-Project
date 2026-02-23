@@ -106,4 +106,5 @@ nav div.pages ul li.blog ul.sub-blog{
     height: 40px;
     width: 40px;
     background-color: white;
+    display: none;
 }
