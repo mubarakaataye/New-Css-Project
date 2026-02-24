@@ -123,4 +123,5 @@ nav div.pages ul li.blog:hover ul.sub-blog li a::before{
     content: "";
     background-color: var(--brand-color);
     position: absolute;
+    top: 0;
 }
