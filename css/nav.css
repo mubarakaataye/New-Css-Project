@@ -116,4 +116,5 @@ nav div.pages ul li.blog:hover ul.sub-blog{
 }
 nav div.pages ul li.blog:hover ul.sub-blog li a{
     text-decoration: non;
+    color: black;
 }
