@@ -126,4 +126,5 @@ nav div.pages ul li.blog:hover ul.sub-blog li a::before{
     top: 0;
     left: 0;
     height: 6px;
+    width: 6px;
 }
