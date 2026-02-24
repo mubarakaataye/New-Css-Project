@@ -119,6 +119,7 @@ nav div.pages ul li.blog:hover ul.sub-blog li a{
     color: black;
     position: relative;
     white-space: nowrap;
+    line-height: 14px;
 }
 nav div.pages ul li.blog:hover ul.sub-blog li a::before{
     content: "";
